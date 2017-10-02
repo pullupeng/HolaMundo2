@@ -5,4 +5,5 @@ package org.exemple.holamundo2;
  */
 
 public class Nuevo {
+    int cnt;
 }
